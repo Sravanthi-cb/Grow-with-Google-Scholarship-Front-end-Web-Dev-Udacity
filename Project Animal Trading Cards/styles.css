@@ -1,0 +1,33 @@
+/* add your CSS here */
+
+img {
+  width: 300px;
+  border: 1px;
+  border-radius: 50%;
+}
+span {
+  font-weight: bold;
+}
+
+.box1 {
+  box-shadow: 5px 10px #888888;
+  width: 500px;
+  border: 1px solid;
+  padding: 10px;
+  height: 600px;
+
+}
+
+li{
+  list-style: none;
+}
+
+.des{
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+.box2 {
+  border: 1px;
+ padding: 10px;
+
+}
