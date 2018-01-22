@@ -1,0 +1,29 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+  
+
+  * What new skills have you learned?
+    
+
+  * What has been easy?
+  
+
+  * What has been difficult?
+  
+  
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Apart from HTML, CSS. I got to learn on Browser Developer Tools which is the most important for the Front-end Developer:
+Browser Developer Tools.. 
+Every modern web browser includes a powerful suite of developer tools. 
+These tools do a range of things, from inspecting currently-loaded HTML, CSS and JavaScript to showing which assets the page has requested 
+and how long they took to load..
+
+Inspecting the HTML elements. Working out on different situations. 
+
+I have put all my learning skills and abilities to develop the first project..
+  
