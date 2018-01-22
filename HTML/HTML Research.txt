@@ -1,0 +1,5 @@
+<p>This text should be bold.</p>
+<p>And this text should have emphasis (italic).</p>
+
+<strong>This text should be bold</strong>
+<em>And this text should have emphasis (italic).</em>
