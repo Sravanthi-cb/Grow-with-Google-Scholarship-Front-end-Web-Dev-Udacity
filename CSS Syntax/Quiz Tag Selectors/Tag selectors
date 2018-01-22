@@ -1,0 +1,12 @@
+Tag Selectors:
+
+If I write a CSS ruleset using a p selector,
+which paragraphs(s) would be affected by the style?
+
+p {
+   text-align: right
+  }
+  
+1) the first paragraph 2) all paragraphs
+
+answer: all paragraphs  
