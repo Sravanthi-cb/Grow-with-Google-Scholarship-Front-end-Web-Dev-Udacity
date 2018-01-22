@@ -1,0 +1,19 @@
+Using Selectors
+
+Which of the following HTML elemnts match the given CSS
+statement?
+
+.right {
+  text-align: right;
+}
+
+
+1)<div class="right"></div>
+
+2)<a href="#" class="leftright"></a>
+
+3)<button id="right"></button>
+
+4)<p class="highlight module right"></p>
+
+Answer: 1 and 4
