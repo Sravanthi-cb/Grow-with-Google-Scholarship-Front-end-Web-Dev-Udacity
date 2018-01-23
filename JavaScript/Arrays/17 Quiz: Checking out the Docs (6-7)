@@ -1,0 +1,32 @@
+QUESTION 1 OF 4
+Use the MDN Documentation to determine which of these methods would be best for reversing elements in this array:
+
+var reverseMe = ["h", "e", "l", "l", "o"];
+1)pop() 2)push() 3)reverse() 4)shift() 5)splice
+
+answer: 3)reverse()
+
+QUESTION 2 OF 4
+What would be the best array method to sort the elements in this array:
+
+var sortMe = [2, 1, 10, 7, 6];
+1)concat() 2)join() 3)unshift() 4)sort() 5)organize()
+
+answer: 4)sort()
+
+QUESTION 3 OF 4
+Consider the following array, removeFirstElement:
+
+var removeFirstElement = ["a", "b", "c"];
+Let's say that you want to modify (i.e., mutate) removeFirstElement by removing the first element within it. Which method(s) could you use?
+1)pop() 2)push() 3)shift() 4)unshift() 5)splice() 6)slice()
+
+answer:3)shift 5)splice
+
+QUESTION 4 OF 4
+What method would be best for changing this array into a string?
+
+var turnMeIntoAString = ["U", "d", "a", "c", "i", "t", "y"];
+1)join() 2)concat() 3)fill() 4)copyWithin()
+
+answer:join()
