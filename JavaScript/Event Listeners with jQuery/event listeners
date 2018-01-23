@@ -1,1 +1,29 @@
 
+
+3.Quiz: monitorEvents Quiz
+
+Which of the following are real mouse events?
+
+1)mouseout
+2)mouseclick
+3)mouseon
+4)mouseover
+5)mousemove
+
+Answers:
+1)mouseout 4)mouseover 5)mousemove
+
+
+
+
+
+5.Quiz: jQuery Event Listener Order Quiz
+
+Fill in the blanks in the correct order
+
+$((B).(C).(D), (A));
+
+A. a function with the stuff we want to do
+B. the target element being listened to
+C. on
+D. the type of event being listened for
