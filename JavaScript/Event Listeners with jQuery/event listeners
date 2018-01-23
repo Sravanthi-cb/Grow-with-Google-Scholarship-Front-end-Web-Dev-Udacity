@@ -27,3 +27,16 @@ A. a function with the stuff we want to do
 B. the target element being listened to
 C. on
 D. the type of event being listened for
+
+
+9.Quiz: Convenience Methods Quiz
+
+which of the following is not cprrect?
+
+1)target.keyup(...) --> target.on('keyup', function(){ ... });
+2)target.mouseover( ... ) --> target.on('mouseover', function(){ ... });
+3)target.change( ... ) --> target.on('change', function(){ ... });
+4)target.hover( ... ) ---> target.on('hover', function(){ ... });
+5)target.click( ... ) ---> target.on('click', function(){ ... });
+
+answer: 4)target.hover( ... ) ---> target.on('hover', function(){ ... });
